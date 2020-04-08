@@ -1,0 +1,62 @@
+/*
+h1 {
+	color: red;
+}
+
+li{
+	color: pink;
+}
+
+h4{
+	color: blue;
+}
+
+
+h1 {color: rgb(200,5,100);
+border-color: pink;
+border-width: 5px;
+border-style: solid;} 
+
+body {background: ;}
+div {background: url();}*/
+
+h1 {
+    color: #000000;
+    border: 10px solid pink;
+    padding: 10px;
+    text-align: center;
+    
+}
+
+
+/*puppy image*/
+
+body {
+    text-align: center;
+    margin: 1em 3em 1em 3em;
+    
+}
+
+ul {
+    padding: 0em 1em 0em 1em;
+    list-style-position: outside;
+    text-align: center;
+}
+
+.img {
+    background: url(https://www.petmd.com/sites/default/files/petmd-puppy-weight.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;  
+}
+
+.transbox {
+    padding: 50px;
+    background-color: rgba(250,250,250,.4);
+}
+
+#title {
+    position: relative;
+    top: .1em;
+    color: #000000;
+}
+
